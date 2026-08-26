@@ -8,6 +8,7 @@ const SOURCE_ROLES: Record<string, string> = {
   pax: "Nuclear weapon producers and their financiers",
   un_ohchr: "Business activity in occupied territory",
   afsc: "Militarism, occupation and prison industry research",
+  bds: "Activist campaign target list",
   opensanctions: "Government sanctions lists",
   gleif: "Corporate ownership records",
 };

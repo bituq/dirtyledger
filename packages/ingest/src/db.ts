@@ -42,15 +42,15 @@ export function writeStore(
 
     // Assign ids and unique slugs in store order (deterministic per input data).
     const ids = new Map<number, number>(); // uid -> row id
-    const usedSlugs = new Map<string, number>();
+    const usedSlugs = new Set<string>();
     let id = 0;
     for (const e of store.entities) {
       id++;
       ids.set(e.uid, id);
-      const base = slugify(e.name);
-      const n = usedSlugs.get(base) ?? 0;
-      usedSlugs.set(base, n + 1);
-      const slug = n === 0 ? base : `${base}-${n + 1}`;
+      const base = slugify(e.name) || 'entity';
+      let slug = base;
+      for (let n = 2; usedSlugs.has(slug); n++) slug = `${base}-${n}`;
+      usedSlugs.add(slug);
       insertEntity.run(id, slug, e.name, e.country, e.lei, e.entityType);
 
       insertFts.run(e.name, id);

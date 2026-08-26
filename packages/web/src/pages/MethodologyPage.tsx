@@ -57,6 +57,17 @@ export function MethodologyPage() {
           </dd>
         </div>
         <div>
+          <dt>BDS movement target list</dt>
+          <dd>
+            The Boycott, Divestment and Sanctions movement publishes the companies it currently
+            targets, from consumer boycott priorities to divestment and institutional pressure
+            lists. Unlike the sources above this is an activist campaign list, not a research
+            database: inclusion reflects the movement's own strategic choices and stated reasons,
+            which we quote in each flag. It is shown under occupation ties, clearly attributed, so
+            you can weigh it yourself.
+          </dd>
+        </div>
+        <div>
           <dt>OpenSanctions</dt>
           <dd>
             OpenSanctions aggregates official sanctions lists and watchlists worldwide. We include
