@@ -1,4 +1,4 @@
-# cleanhands
+# dirtyledger
 
 Check a company for involvement in the arms trade, war crimes, sanctions, and other ties that don't hold up. Every result is literal list membership on a published source (SIPRI, PAX Don't Bank on the Bomb, UN OHCHR settlements database, AFSC Investigate, OpenSanctions, GLEIF ownership data) with the evidence linked. No invented scores.
 

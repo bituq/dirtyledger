@@ -1,4 +1,4 @@
--- cleanhands SQLite schema. Built from scratch on every ingest run.
+-- dirtyledger SQLite schema. Built from scratch on every ingest run.
 
 CREATE TABLE sources (
   key TEXT PRIMARY KEY,            -- 'sipri' | 'pax' | 'un_ohchr' | 'afsc' | 'opensanctions' | 'gleif'

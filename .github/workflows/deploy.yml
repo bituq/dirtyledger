@@ -37,7 +37,7 @@ jobs:
         env:
           PAGES_BASE: /${{ github.event.repository.name }}/
       - name: Copy database into site
-        run: mkdir -p packages/web/dist/data && cp dist-data/cleanhands.db* packages/web/dist/data/
+        run: mkdir -p packages/web/dist/data && cp dist-data/dirtyledger.db* packages/web/dist/data/
       - name: SPA fallback for Pages
         run: cp packages/web/dist/index.html packages/web/dist/404.html
       - uses: actions/upload-pages-artifact@v3

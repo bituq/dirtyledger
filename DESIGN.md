@@ -1,4 +1,4 @@
-# cleanhands — design
+# dirtyledger — design
 
 Check a company for involvement in the arms trade, war crimes, sanctions, and other ties that don't hold up. Static site on GitHub Pages, data rebuilt weekly by GitHub Actions. Non-commercial (OpenSanctions data is CC BY-NC); attribution page required.
 
@@ -6,7 +6,7 @@ Check a company for involvement in the arms trade, war crimes, sanctions, and ot
 
 Two pnpm workspace packages:
 
-- `packages/ingest` — TypeScript scripts (run with tsx, better-sqlite3) that download/parse each source and build one SQLite file `dist-data/cleanhands.db`. No server anywhere.
+- `packages/ingest` — TypeScript scripts (run with tsx, better-sqlite3) that download/parse each source and build one SQLite file `dist-data/dirtyledger.db`. No server anywhere.
 - `packages/web` — Vite + React SPA. Queries the DB **client-side** over HTTP range requests (sql.js-httpvfs pattern). Deployed to GitHub Pages together with the DB file.
 
 CI: `.github/workflows/deploy.yml` runs on push to main + weekly cron + manual dispatch → `pnpm ingest` → `pnpm build` → deploy to Pages.

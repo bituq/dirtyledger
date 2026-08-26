@@ -1,11 +1,11 @@
 {
-  "name": "cleanhands",
+  "name": "dirtyledger",
   "private": true,
   "version": "0.1.0",
   "scripts": {
-    "ingest": "pnpm --filter @cleanhands/ingest run build-db",
-    "build": "pnpm --filter @cleanhands/web run build",
-    "dev": "pnpm --filter @cleanhands/web run dev",
+    "ingest": "pnpm --filter @dirtyledger/ingest run build-db",
+    "build": "pnpm --filter @dirtyledger/web run build",
+    "dev": "pnpm --filter @dirtyledger/web run dev",
     "typecheck": "pnpm -r run typecheck"
   },
   "packageManager": "pnpm@11.8.0"
