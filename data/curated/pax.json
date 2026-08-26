@@ -1,0 +1,568 @@
+{
+  "source": {
+    "key": "pax",
+    "name": "PAX / ICAN Don't Bank on the Bomb: Untenable Investments (2024)",
+    "url": "https://www.dontbankonthebomb.com/untenable-investments/",
+    "license": "Free for non-commercial reproduction with attribution to PAX/ICAN",
+    "fetched_at": "2026-08-26",
+    "dataset_date": "2024-05",
+    "note": "All 24 fully profiled nuclear weapon producer companies included. Financiers limited to the report's Top 10 investors (Table 1) and Top 10 lenders/underwriters (Table 2): 19 unique institutions of the 287 the report identifies in total. The report's watchlist companies are not included."
+  },
+  "companies": [
+    {
+      "name": "Airbus",
+      "aliases": [
+        "Airbus Group"
+      ],
+      "country": "NL",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): prime contractor for ballistic missiles of the French nuclear arsenal through its 50% stake in ArianeGroup (M51 SLBM) and 37.5% stake in MBDA (ASMPA air-launched nuclear missile and its ASN4G successor)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "BAE Systems",
+      "aliases": [
+        "BAE Systems plc"
+      ],
+      "country": "GB",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): involved in the UK, US and French nuclear arsenals: 37.5% of MBDA (prime contractor for the French ASMPA nuclear missile), part of the Dreadnought Alliance building the UK's Dreadnought ballistic missile submarines, and involved in the US/UK Trident II (D5) programme",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Bechtel",
+      "aliases": [
+        "Bechtel Group"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): manages and operates the Lawrence Livermore National Laboratory (lead design agency for the W87-1 warhead life extension programme) and is part of the Consolidated Nuclear Security joint venture operating the Pantex Plant and Y-12 National Security Complex (US arsenal)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Bharat Dynamics Limited",
+      "aliases": [
+        "Bharat Dynamics",
+        "BDL"
+      ],
+      "country": "IN",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): prime production agency for India's Integrated Guided Missile Development Programme; involved in the nuclear-capable Prithvi and Agni missile programmes (Indian arsenal)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Boeing",
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): supports production of the US Minuteman III ICBM and Trident II (D5) missiles, produces the guided tail-kit for the B61-12 nuclear gravity bomb, and holds contracts related to the Long Range Standoff missile (US and UK arsenals)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "China Aerospace Science and Technology",
+      "aliases": [
+        "CASC"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): part of China's state-owned defence industry; produces intercontinental strategic nuclear missiles for the Chinese arsenal",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Fluor",
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): through the Savannah River Nuclear Solutions joint venture manages the Savannah River Site and National Laboratory, which produces tritium and is being expanded for plutonium pit production for US nuclear weapons (contract potential value $36.1bn)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "General Dynamics",
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): produces components for the US and UK Trident II (D5) submarine-launched ballistic missiles and fire-control subsystem hardware for the UK Dreadnought-class submarines; outstanding nuclear weapon contracts of at least $23.7bn",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Honeywell International",
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): operates the Kansas City National Security Campus, which produces an estimated 80% of the non-nuclear components for US nuclear weapons, including components of the W88 Alt 370, W80-4 and B61-12 warheads (10-year contract potential value $15.7bn)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Huntington Ingalls Industries",
+      "aliases": [
+        "HII"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): involved in the management and operation of several facilities responsible for the production, development and stockpiling of US nuclear weapons, and builds nuclear-powered vessels for the US Navy",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Jacobs Solutions",
+      "aliases": [
+        "Jacobs Engineering"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): nuclear weapon component producer through its 2017 acquisition of CH2M Hill; part of the MSTS joint venture (with Honeywell International) that manages and operates the US Nevada National Security Site",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "L3Harris Technologies",
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): provides products and services for the Trident II (D5) system; through its acquisition of Aerojet Rocketdyne it is a member of Northrop Grumman's Sentinel ICBM team (US arsenal)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Leidos",
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): part of the Consolidated Nuclear Security joint venture that manages and operates the Pantex Plant and the Y-12 National Security Complex, where US nuclear weapons are assembled (contract potentially valued at $48.9bn)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Leonardo",
+      "country": "IT",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): holds a 25% stake in MBDA, prime contractor for the ASMPA nuclear missile of the French arsenal and developer of its ASN4G successor",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Lockheed Martin",
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): produces the Trident II (D5) nuclear missiles for both the UK and US arsenals, is principal designer, manufacturer and sustainer of Minuteman III re-entry systems, and works on the LGM-35A Sentinel programme",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Northrop Grumman",
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): building the LGM-35A Sentinel, the new US intercontinental ballistic missile, and sustains the Minuteman III ICBM; outstanding nuclear weapon contracts of at least $21.2bn (US arsenal)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Peraton",
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): provides software support to the US Minuteman III ICBM system (taken over from Northrop Grumman) and holds a $360m Nuclear Safety Cross-Check Analysis contract running until 2039 (US arsenal)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Rolls-Royce",
+      "aliases": [
+        "Rolls-Royce Holdings"
+      ],
+      "country": "GB",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): provides nuclear propulsion power plants for the UK's ballistic missile submarines, including the Dreadnought class (UK arsenal)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Rostec",
+      "country": "RU",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): Russian state-owned conglomerate: produces the nuclear-capable Iskander-M missile system, its SpecChemistry subsidiary produces over 80% of necessary components for Russian missiles, and it upgrades the nuclear-capable Tu-160 strategic bomber (Russian arsenal)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "RTX",
+      "aliases": [
+        "Raytheon Technologies",
+        "RTX Corporation"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): involved in production of the LGM-35A Sentinel ICBM and the Long Range Standoff (LRSO) weapon system, and in sustainment of the US Minuteman programme",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Safran",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): 50% owner of ArianeGroup, prime contractor for the French M51 submarine-launched ballistic missile (production of M51.3 and preparatory work for M51.4, French arsenal)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Textron",
+      "country": "US",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): produces key components for the US Minuteman missiles (multiprobe antennas and Mod 5F midsections) and is involved in production of the LGM-35A Sentinel ICBM",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Thales",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): one of the '140+ direct suppliers' on the French nuclear missile programme, making electronic systems for it (French arsenal)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Walchandnagar Industries Limited",
+      "aliases": [
+        "Walchandnagar Industries",
+        "WIL"
+      ],
+      "country": "IN",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer listed in Don't Bank on the Bomb 2024 ('Untenable Investments'): supplies launch systems for India's nuclear-capable Agni missiles and 'critical equipment' for the INS Arihant nuclear-powered ballistic missile submarine (Indian arsenal)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Vanguard",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 investor in nuclear weapon producers, $72.5bn held in shares and bonds (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Capital Group",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 investor in nuclear weapon producers, $62.5bn held in shares and bonds (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "State Street",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 investor in nuclear weapon producers, $55.5bn held in shares and bonds (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "BlackRock",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 investor in nuclear weapon producers, $53.2bn held in shares and bonds (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Wellington Management",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 investor in nuclear weapon producers, $18.7bn held in shares and bonds (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Fidelity Investments",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 investor in nuclear weapon producers, $15.3bn held in shares and bonds (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Newport Group",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 investor in nuclear weapon producers, $14.3bn held in shares and bonds (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Geode Capital Holdings",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 investor in nuclear weapon producers, $13.9bn held in shares and bonds (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Bank of America",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 investor in nuclear weapon producers, $12.2bn held in shares and bonds (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        },
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 lender/underwriter to nuclear weapon producers, $21.8bn provided in loans and underwriting (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Morgan Stanley",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 investor in nuclear weapon producers, $9.1bn held in shares and bonds (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Citigroup",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 lender/underwriter to nuclear weapon producers, $23.7bn provided in loans and underwriting (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "JPMorgan Chase",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 lender/underwriter to nuclear weapon producers, $20.5bn provided in loans and underwriting (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Wells Fargo",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 lender/underwriter to nuclear weapon producers, $15.4bn provided in loans and underwriting (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Mizuho Financial",
+      "country": "JP",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 lender/underwriter to nuclear weapon producers, $11.7bn provided in loans and underwriting (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "BNP Paribas",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 lender/underwriter to nuclear weapon producers, $11.4bn provided in loans and underwriting (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Goldman Sachs",
+      "country": "US",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 lender/underwriter to nuclear weapon producers, $10.3bn provided in loans and underwriting (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Mitsubishi UFJ Financial",
+      "country": "JP",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 lender/underwriter to nuclear weapon producers, $10.1bn provided in loans and underwriting (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "SMBC Group",
+      "country": "JP",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 lender/underwriter to nuclear weapon producers, $9.9bn provided in loans and underwriting (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    },
+    {
+      "name": "Crédit Agricole",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Listed in Don't Bank on the Bomb 2024 ('Untenable Investments') as a top-10 lender/underwriter to nuclear weapon producers, $8.3bn provided in loans and underwriting (2023)",
+          "evidence_url": "https://www.dontbankonthebomb.com/wp-content/uploads/2024/05/PAX_Rapport_DBotB_Untenable-Investments_HERDRUK_JUN24_FINAL_digi_spread.pdf",
+          "listed_date": "2024-05"
+        }
+      ]
+    }
+  ]
+}

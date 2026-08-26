@@ -1,0 +1,1957 @@
+{
+  "source": {
+    "key": "un_ohchr",
+    "name": "UN OHCHR database of business enterprises involved in Israeli settlement activities (A/HRC/60/19)",
+    "url": "https://www.ohchr.org/en/business/bhr-database",
+    "license": "UN document, publicly available",
+    "fetched_at": "2026-08-26",
+    "dataset_date": "2025-09",
+    "note": "All 158 enterprises from Annex I of A/HRC/60/19 (26 September 2025). Activity letters refer to paragraph 96 of A/HRC/22/63: (a) construction supply, (b) surveillance equipment, (c) demolition equipment, (d) security services, (e) services/utilities to settlements, (f) banking/financial operations, (g) natural resources use, (h) waste dumping, (i) market captivity, (j) settler-owned reinvestment. Annex II (7 enterprises no longer involved) is intentionally excluded."
+  },
+  "companies": [
+    {
+      "name": "A. Barkan and Partners Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Ackerstein Industries Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "ACS Actividades de Construcción y Servicios S.A.",
+      "country": "ES",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Ahava – Dead Sea Laboratories Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Airbnb Inc.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Alon Blue Square Israel Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Altice International Ltd.",
+      "country": "LU",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Amir Marketing and Investments in Agriculture Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Amos Hadar Properties and Investments Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Amot Investments Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Anglo Saxon Real Estate Agency (Israel 1992) Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Archivists Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Ashtrom Group Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Ashtrom Industries Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Ashtrom Residential Development Ltd.",
+      "aliases": [
+        "Ashdar Building Company"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "B. Gaon Holdings Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Bank Hapoalim Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (f), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Bank Leumi Le-Israel Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (f), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Bank of Jerusalem Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (f), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Barad Earthworks, Development and Roadworks Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Bar-Amana Buildings Construction and Development Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Baran Group Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Bardarian Brothers Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Beit Haarchiv Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Bezeq, the Israeli Telecommunications Corp. Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Boneich Construction Development & Investments Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Booking Holdings Inc.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Booking.com B.V.",
+      "country": "NL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Brothers Hasid Construction Contracting Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "C. Mer Industries Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (b), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Café Café Israel Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Caliber 3 Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (d), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Cellcom Israel Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Cherriessa Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Cim Lustigman Development and Construction Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "CityBook Services Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Comasco Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (c)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Construcciones y Auxiliar de Ferrocarriles S.A. (CAF)",
+      "aliases": [
+        "CAF"
+      ],
+      "country": "ES",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "D.N. Kol-Gader Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Dalia Elispur Construction Contracting Company 1972 Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Dan Public Transportation Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Danya Cebus Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Davidov Garages Ltd.",
+      "aliases": [
+        "Mayer Davidov Garages Ltd."
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Db Billiards Ltd.",
+      "aliases": [
+        "Chish Nofei Israel Ltd."
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g), (j)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Delek Group Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Delta Galil Industries Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Delta Israel Brands Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Dor Alon Energy in Israel 1988 Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "EPR Systems Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "E.T. Legal Services Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (c), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Egged Transportation Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Egis",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Egis Rail",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Einav Hahetz 1965 Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Elco Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Electra Afikim Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Electra Group Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Elyakim Ben-Ari Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Euro-Israel (Y.S.) Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Expedia Group Inc.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Export Investment Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (f), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Extal Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Extra Retail Group Ltd.",
+      "aliases": [
+        "Naaman Group Ltd."
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Field Produce Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Field Produce Marketing Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "First International Bank of Israel Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (f), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Fosun International Ltd.",
+      "country": "CN",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Gadish Engineering Company Ltd. (Gadish Group)",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Galnor Construction and Development Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Galshan Shvakim Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Geo-Da – Lands & Property Management & Information Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Greenkote P.L.C.",
+      "country": "GB",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Greenmix, of Benny and Tzvika Group Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Haim Zaken Construction & Investments Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Hamat Group Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Hanson Israel Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Harsa Studio – Sanitaryware Manufacturers Ltd.",
+      "aliases": [
+        "Lipski Installation and Sanitation Ltd."
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Heidelberg Materials AG",
+      "country": "DE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Hot Mobile Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Hot Telecommunication Systems Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Impact Property Development Ltd.",
+      "aliases": [
+        "Re/Max Israel"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Ingeniería y Economía del Transporte S.M.E. M.P, S.A. (Ineco)",
+      "aliases": [
+        "Ineco"
+      ],
+      "country": "ES",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Israel Discount Bank Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (f)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Israel Railways Corporation Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g), (h)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Italek Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "J.C. Bamford Excavators Ltd.",
+      "country": "GB",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (c)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Kass – C Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Kavim Public Transportation Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Kfar Giladi Quarries Agricultural Cooperative Association Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Kiriat Sefer (Diur Modyin) Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Kotler Adika Building Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Lapidoth Capital Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Magen – Construction Engineering Works Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Margolin Bros. Engineering & Consulting Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Marom Tuval – Consulting, Management & Investments Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Matrix IT Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mayer's Cars and Trucks Co. Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Medan – Roads and Quarries (1964) Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mega Or Holdings Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mekorot Water Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mercantile Discount Bank Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (f)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Merkavim Transportation Technologies Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mery Building Works Contracting Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Metrontario Investments Ltd.",
+      "country": "CA",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Minrav Group Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mishab Housing Construction & Development Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mishkan Eliyahu – Construction and Investment Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mivne Real Estate KD Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mizrachi & Sons Investments Group Ltd.",
+      "aliases": [
+        "Shikun Dayarim Ltd."
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mizrahi Tefahot Bank Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Modi'in Ezrachi Group Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (d), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Mordechai Aviv 1973 Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Motorola Solutions Israel Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (d), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Motorola Solutions, Inc.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (d), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "N.O.H. Management and Consulting Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Natoon – Nof Yam Security Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (d), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "New Way Traffic Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Ofertex Industries 1997 Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Olenik Transportation Earth Work and Road Constructions Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Oron Group Investments & Holdings Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Partner Communications Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Paz Retail and Energy Ltd.",
+      "aliases": [
+        "Paz Oil Company Ltd."
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Pelephone Communications Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Powergen Solar A Ltd.",
+      "aliases": [
+        "Solegreen Ltd."
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Proffimat S.R Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Rami Levi Chain Stores Hashikma Marketing 2006 Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Rami Levy Hashikma Marketing Communication Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Re/Max Holdings, Inc.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Rotshtein Real Estate Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "S.A.G. (Velvel) Building & Development Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Salomon A. Angel Ltd.",
+      "aliases": [
+        "Angel Bakery"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Sarfati Shimon Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Shahar Co. – Civil Engineering, Construction and Infrastructure Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Shalgal Food Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Shapir Engineering and Industry Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Shikun & Binui Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Shikun & Binui – Solel Boneh – Infrastructure Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Shlomo Cohen Construction Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Shoham Engineering and Development Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Shufersal Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Sociedad Espanola De Montajes Industriales S.A. (SEMI)",
+      "aliases": [
+        "SEMI"
+      ],
+      "country": "ES",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Sonol Israel Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Steconfer S.A.",
+      "country": "PT",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Superbus Transportation and Tourism Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Supergum Industries 1969 Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "The American Israeli Gas Corporation Ltd. (Amisragas)",
+      "aliases": [
+        "Amisragas"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "TripAdvisor, Inc.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Twitoplast Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Unikowsky Maoz Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Villar International Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Y.A.Z (Yaaz) – Construction and Development Company Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (c)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Y.D. Barazani Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (a), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Yacobi Brothers Group (YSB) Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Yes TV and Communications Services Ltd.",
+      "aliases": [
+        "D.B.S Satellite Services Ltd."
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Z.F. Building Company Ltd.",
+      "aliases": [
+        "Z.F. Development and Construction"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Zakai Agricultural Know-how and Inputs Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Z.M.H. Hammerman Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (e), (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    },
+    {
+      "name": "Zriha Hlavin Industries Ltd.",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in UN OHCHR database of businesses involved in Israeli settlement activity (A/HRC/60/19, 2025), activity: (g)",
+          "evidence_url": "https://docs.un.org/en/A/HRC/60/19",
+          "listed_date": "2025-09"
+        }
+      ]
+    }
+  ]
+}

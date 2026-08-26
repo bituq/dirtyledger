@@ -1,0 +1,1277 @@
+{
+  "source": {
+    "key": "sipri",
+    "name": "SIPRI Top 100 Arms-producing and Military Services Companies, 2024",
+    "url": "https://www.sipri.org/databases/armsindustry",
+    "license": "SIPRI terms, non-commercial use with attribution",
+    "fetched_at": "2026-08-26",
+    "dataset_date": "2024",
+    "note": "Full Top 100 for 2024 transcribed from Annex 1 of SIPRI Fact Sheet fs_2512 (December 2025). Arms revenues in constant 2024 US dollars. 'Trans-European' companies (Airbus, MBDA, KNDS) carry no ISO country code."
+  },
+  "companies": [
+    {
+      "name": "Lockheed Martin Corp.",
+      "aliases": [
+        "Lockheed Martin"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 1 (2024), arms revenue $64.7bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "RTX",
+      "aliases": [
+        "Raytheon Technologies"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 2 (2024), arms revenue $43.6bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Northrop Grumman Corp.",
+      "aliases": [
+        "Northrop Grumman"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 3 (2024), arms revenue $37.9bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "BAE Systems",
+      "country": "GB",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 4 (2024), arms revenue $33.8bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "General Dynamics Corp.",
+      "aliases": [
+        "General Dynamics"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 5 (2024), arms revenue $33.6bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Boeing",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 6 (2024), arms revenue $30.6bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Rostec",
+      "country": "RU",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 7 (2024), arms revenue $27.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ],
+      "subsidiaries": [
+        "High Precision Systems",
+        "KRET",
+        "Russian Electronics",
+        "Russian Helicopters",
+        "United Aircraft Corporation",
+        "United Engines Corporation",
+        "UralVagonZavod"
+      ]
+    },
+    {
+      "name": "AVIC",
+      "aliases": [
+        "Aviation Industry Corporation of China"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 8 (2024), arms revenue $20.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "CETC",
+      "aliases": [
+        "China Electronics Technology Group Corporation"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 9 (2024), arms revenue $18.9bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "L3Harris Technologies",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 10 (2024), arms revenue $16.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "NORINCO",
+      "aliases": [
+        "China North Industries Group Corporation"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 11 (2024), arms revenue $14.0bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Leonardo",
+      "country": "IT",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 12 (2024), arms revenue $13.8bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Airbus",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 13 (2024), arms revenue $13.4bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "CSSC",
+      "aliases": [
+        "China State Shipbuilding Corporation"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 14 (2024), arms revenue $12.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Thales",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 15 (2024), arms revenue $11.8bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "HII",
+      "aliases": [
+        "Huntington Ingalls Industries"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 16 (2024), arms revenue $10.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "CASC",
+      "aliases": [
+        "China Aerospace Science and Technology Corporation"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 17 (2024), arms revenue $10.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Leidos",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 18 (2024), arms revenue $9.4bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Amentum",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 19 (2024), arms revenue $8.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Rheinmetall",
+      "country": "DE",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 20 (2024), arms revenue $8.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Hanwha Group",
+      "country": "KR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 21 (2024), arms revenue $8.0bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 22 (2024), arms revenue $7.8bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Rolls-Royce",
+      "country": "GB",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 23 (2024), arms revenue $7.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "CACI International",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 24 (2024), arms revenue $6.5bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Elbit Systems",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 25 (2024), arms revenue $6.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "AECC",
+      "aliases": [
+        "Aero Engine Corporation of China"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 26 (2024), arms revenue $6.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Honeywell International",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 27 (2024), arms revenue $6.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Saab",
+      "country": "SE",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 28 (2024), arms revenue $5.6bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Safran",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 29 (2024), arms revenue $5.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "MBDA",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 30 (2024), arms revenue $5.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Israel Aerospace Industries",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 31 (2024), arms revenue $5.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Mitsubishi Heavy Industries",
+      "country": "JP",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 32 (2024), arms revenue $5.0bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "GE Aerospace",
+      "aliases": [
+        "General Electric"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 33 (2024), arms revenue $4.9bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Rafael",
+      "country": "IL",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 34 (2024), arms revenue $4.7bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "KBR",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 35 (2024), arms revenue $4.7bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Naval Group",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 36 (2024), arms revenue $4.7bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "EDGE Group",
+      "country": "AE",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 37 (2024), arms revenue $4.7bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "CSGC",
+      "aliases": [
+        "China South Industries Group Corporation"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 38 (2024), arms revenue $4.6bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Babcock International Group",
+      "country": "GB",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 39 (2024), arms revenue $4.6bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Dassault Aviation Group",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 40 (2024), arms revenue $4.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "United Shipbuilding Corp.",
+      "aliases": [
+        "United Shipbuilding Corporation",
+        "USC"
+      ],
+      "country": "RU",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 41 (2024), arms revenue $4.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "KNDS",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 42 (2024), arms revenue $4.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Science Applications International Corp.",
+      "aliases": [
+        "SAIC"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 43 (2024), arms revenue $3.9bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Hindustan Aeronautics",
+      "country": "IN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 44 (2024), arms revenue $3.8bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "V2X",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 45 (2024), arms revenue $3.8bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Czechoslovak Group",
+      "country": "CZ",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 46 (2024), arms revenue $3.6bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "ASELSAN",
+      "country": "TR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 47 (2024), arms revenue $3.5bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Textron",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 48 (2024), arms revenue $3.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "TransDigm Group",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 49 (2024), arms revenue $3.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "NCSIST",
+      "country": "TW",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 50 (2024), arms revenue $3.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "PGZ",
+      "aliases": [
+        "Polska Grupa Zbrojeniowa"
+      ],
+      "country": "PL",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 51 (2024), arms revenue $3.0bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "JSC Ukrainian Defense Industry",
+      "country": "UA",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 52 (2024), arms revenue $3.0bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Fincantieri",
+      "country": "IT",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 53 (2024), arms revenue $3.0bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Parker-Hannifin Corp.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 54 (2024), arms revenue $2.7bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Kawasaki Heavy Industries",
+      "country": "JP",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 55 (2024), arms revenue $2.7bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Bechtel Corp.",
+      "aliases": [
+        "Bechtel"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 56 (2024), arms revenue $2.6bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "ST Engineering",
+      "country": "SG",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 57 (2024), arms revenue $2.6bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Bharat Electronics",
+      "country": "IN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 58 (2024), arms revenue $2.5bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Serco Group",
+      "country": "GB",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 59 (2024), arms revenue $2.4bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "LIG Nex1",
+      "country": "KR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 60 (2024), arms revenue $2.4bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "ThyssenKrupp",
+      "country": "DE",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 61 (2024), arms revenue $2.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Hensoldt",
+      "country": "DE",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 62 (2024), arms revenue $2.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Parsons Corp.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 63 (2024), arms revenue $2.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Fujitsu",
+      "country": "JP",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 64 (2024), arms revenue $2.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Turkish Aerospace Industries",
+      "country": "TR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 65 (2024), arms revenue $2.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Oshkosh Corp.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 66 (2024), arms revenue $2.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Diehl",
+      "country": "DE",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 67 (2024), arms revenue $2.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "BWX Technologies",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 68 (2024), arms revenue $2.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Teledyne Technologies",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 69 (2024), arms revenue $2.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Korea Aerospace Industries",
+      "country": "KR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 70 (2024), arms revenue $2.0bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "QinetiQ",
+      "country": "GB",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 71 (2024), arms revenue $2.0bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Nevada Corp.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 72 (2024), arms revenue $1.9bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Baykar",
+      "country": "TR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 73 (2024), arms revenue $1.9bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "General Atomics",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 74 (2024), arms revenue $1.9bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Eaton",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 75 (2024), arms revenue $1.9bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Mitsubishi Electric Corp.",
+      "country": "JP",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 76 (2024), arms revenue $1.9bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "SpaceX",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 77 (2024), arms revenue $1.8bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Curtiss-Wright Corp.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 78 (2024), arms revenue $1.8bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Kongsberg Gruppen",
+      "country": "NO",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 79 (2024), arms revenue $1.8bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Hyundai Rotem",
+      "country": "KR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 80 (2024), arms revenue $1.7bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Amphenol Corp.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 81 (2024), arms revenue $1.7bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "CNNC",
+      "aliases": [
+        "China National Nuclear Corporation"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 82 (2024), arms revenue $1.7bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "NEC Corp.",
+      "country": "JP",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 83 (2024), arms revenue $1.5bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "United Launch Alliance",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 84 (2024), arms revenue $1.5bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "CAE",
+      "country": "CA",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 85 (2024), arms revenue $1.5bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Moog",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 86 (2024), arms revenue $1.4bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Roketsan",
+      "country": "TR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 87 (2024), arms revenue $1.4bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Navantia",
+      "country": "ES",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 88 (2024), arms revenue $1.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "HEICO Corp.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 89 (2024), arms revenue $1.3bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Melrose Industries",
+      "country": "GB",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 90 (2024), arms revenue $1.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Mazagon Dock Shipbuilders",
+      "country": "IN",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 91 (2024), arms revenue $1.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "ViaSat",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 92 (2024), arms revenue $1.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "MKE",
+      "aliases": [
+        "Makina ve Kimya Endüstrisi"
+      ],
+      "country": "TR",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 93 (2024), arms revenue $1.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Howmet Aerospace",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 94 (2024), arms revenue $1.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Keysight Technologies",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 95 (2024), arms revenue $1.2bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "DEFEND ID",
+      "country": "ID",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 96 (2024), arms revenue $1.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "TTM Technologies",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 97 (2024), arms revenue $1.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Mitre Corp.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 98 (2024), arms revenue $1.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "The Aerospace Corp.",
+      "country": "US",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 99 (2024), arms revenue $1.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    },
+    {
+      "name": "Ultra Electronics Group",
+      "country": "GB",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "SIPRI Top 100 rank 100 (2024), arms revenue $1.1bn",
+          "evidence_url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+          "listed_date": "2025-12"
+        }
+      ]
+    }
+  ]
+}

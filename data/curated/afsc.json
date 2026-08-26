@@ -1,0 +1,4114 @@
+{
+  "source": {
+    "key": "afsc",
+    "name": "AFSC Investigate database",
+    "url": "https://investigate.afsc.org/",
+    "license": "Free for non-profit use (AFSC); commercial users asked to support the project",
+    "fetched_at": "2026-08-26",
+    "dataset_date": "2025-07",
+    "note": "Full official dataset download (investigate-dataset-july-2025.xlsx, 255 companies). The current AFSC dataset categorises companies only under Prisons, Occupations and Borders; Prisons maps to 'prisons', Occupations to 'occupation', Borders to 'other'. There is no separate military/weapons column in this dataset, so no 'arms' flags are emitted for this source."
+  },
+  "companies": [
+    {
+      "name": "3M",
+      "aliases": [
+        "3M Co"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/3m",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "A. P. Moller Maersk",
+      "aliases": [
+        "A. P. Moller Maersk A/S"
+      ],
+      "country": "DK",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/maersk",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "ABB",
+      "aliases": [
+        "ABB Ltd"
+      ],
+      "country": "CH",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/abb",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Acadia Healthcare Co",
+      "aliases": [
+        "Acadia Healthcare Co Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/acadia-healthcare",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Accenture",
+      "aliases": [
+        "Accenture PLC"
+      ],
+      "country": "IE",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/accenture",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Adama",
+      "aliases": [
+        "Adama Ltd"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/adama",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "AeroVironment",
+      "aliases": [
+        "AeroVironment Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/aerovironment",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Afcon Holdings",
+      "aliases": [
+        "Afcon Holdings Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/afcon-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Air Transport Services Gr",
+      "aliases": [
+        "Air Transport Services Group Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/atsg",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/atsg",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Airbnb",
+      "aliases": [
+        "Airbnb Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/airbnb",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Airbus",
+      "aliases": [
+        "Airbus SE"
+      ],
+      "country": "NL",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/airbus",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Allison Transmission",
+      "aliases": [
+        "Allison Transmission Holdings Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/allison-transmission",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Alony-Hetz Props & Inv",
+      "aliases": [
+        "Alony-Hetz Properties & Investments Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/alony-hetz",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Alphabet",
+      "aliases": [
+        "Alphabet Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/alphabet",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/alphabet",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/alphabet",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Amanet Management",
+      "aliases": [
+        "Amanet Management & Systems Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/amanet-management",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Amazon.com",
+      "aliases": [
+        "Amazon.com Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/amazon",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/amazon",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/amazon",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Amir Marketing & Inv",
+      "aliases": [
+        "Amir Marketing & Investments In Agriculture Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/amir-marketing-inv",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Amot Investments",
+      "aliases": [
+        "Amot Investments Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/amot-investments",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Apollo Global Management",
+      "aliases": [
+        "Apollo Global Management Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/apollo-global-management",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Aramark",
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/aramark",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/aramark",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Archer-Daniels Midland",
+      "aliases": [
+        "Archer-Daniels Midland Co"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/adm",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Ashot- Ashkelon Indus",
+      "aliases": [
+        "Ashot- Ashkelon Industries Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/ashot-ashkelon",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Ashtrom Group",
+      "aliases": [
+        "Ashtrom Group Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/ashtrom-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Asseco Poland",
+      "aliases": [
+        "Asseco Poland SA"
+      ],
+      "country": "PL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/asseco-poland",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "AT&T",
+      "aliases": [
+        "AT&T Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/att",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Atlas Copco",
+      "aliases": [
+        "Atlas Copco AB"
+      ],
+      "country": "SE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/atlas-copco",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Aware",
+      "aliases": [
+        "Aware Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/aware",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Axon Enterprise",
+      "aliases": [
+        "Axon Enterprise Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/axon-enterprise",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/axon-enterprise",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/axon-enterprise",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "B Communications",
+      "aliases": [
+        "B Communications Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/bezeq-israeli-telecom",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "B Gaon Holdings",
+      "aliases": [
+        "B Gaon Holdings Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/b-gaon-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "BAE Systems",
+      "aliases": [
+        "BAE Systems PLC"
+      ],
+      "country": "GB",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/bae-systems",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Bank Hapoalim",
+      "aliases": [
+        "Bank Hapoalim BM"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/bank-hapoalim",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Bank Leumi Le-Israel",
+      "aliases": [
+        "Bank Leumi Le-Israel BM"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/bank-leumi-le-israel",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Bank of Jerusalem",
+      "aliases": [
+        "Bank of Jerusalem Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/bank-jerusalem",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Baran Group",
+      "aliases": [
+        "Baran Group Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/baran-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Benchmark Electronics",
+      "aliases": [
+        "Benchmark Electronics Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/benchmark-electronics",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "aliases": [
+        "Berkshire Hathaway Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/berkshire-hathaway",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Bezeq Israeli Telecom",
+      "aliases": [
+        "Bezeq The Israeli Telecommunication Corp Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/bezeq-israeli-telecom",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Boeing",
+      "aliases": [
+        "Boeing Co"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/boeing",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Booking Holdings",
+      "aliases": [
+        "Booking Holdings Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/booking-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "aliases": [
+        "Booz Allen Hamilton Holding Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/booz-allen-hamilton",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Bright Dairy & Food Co",
+      "aliases": [
+        "Bright Dairy & Food Co Ltd"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/bright-dairy-food-co",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "BRP",
+      "aliases": [
+        "BRP Inc"
+      ],
+      "country": "CA",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/brp",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "C Mer Industries",
+      "aliases": [
+        "C Mer Industries Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/c-mer-industries",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "CACI International",
+      "aliases": [
+        "CACI International Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/caci-international",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Cadre Hldgs",
+      "aliases": [
+        "Cadre Holdings Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/cadre-holdings",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/cadre-holdings",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/cadre-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "CAF",
+      "aliases": [
+        "Construcciones y Auxiliar de Ferrocarriles SA"
+      ],
+      "country": "ES",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/caf",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Cal-Maine Foods",
+      "aliases": [
+        "Cal-Maine Foods Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/cal-maine-foods",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Canon",
+      "aliases": [
+        "Canon Inc"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/canon",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Capgemini",
+      "aliases": [
+        "Capgemini SE"
+      ],
+      "country": "FR",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/capgemini",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/capgemini",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Capital Point",
+      "aliases": [
+        "Capital Point Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/capital-point",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Cardinal Health",
+      "aliases": [
+        "Cardinal Health Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/cardinal-health",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Carlyle Group",
+      "aliases": [
+        "The Carlyle Group Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/mantech-international",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Carrefour",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/carrefour",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Castro Model",
+      "aliases": [
+        "Castro Model Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/castro-model",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Caterpillar",
+      "aliases": [
+        "Caterpillar Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/caterpillar",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Cellcom Israel",
+      "aliases": [
+        "Cellcom Israel Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/cellcom-israel",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Cellebrite DI",
+      "aliases": [
+        "Cellebrite DI Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/cellebrite",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/cellebrite",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/cellebrite",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Cemex",
+      "aliases": [
+        "Cemex SAB de CV"
+      ],
+      "country": "MX",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/cemex",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Cemtrex",
+      "aliases": [
+        "Cemtrex Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/cemtrex",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/cemtrex",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Chevron",
+      "aliases": [
+        "Chevron Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/chevron",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Children's Place",
+      "aliases": [
+        "Children's Place Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/childrens-place",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Chocoladefabriken",
+      "aliases": [
+        "Chocoladefabriken Lindt & Spruengli AG"
+      ],
+      "country": "CH",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/lindt",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Cisco Systems",
+      "aliases": [
+        "Cisco Systems Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/cisco-systems",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Citizens Financial Group",
+      "aliases": [
+        "Citizens Financial Group Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/citizens-financial-group",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/citizens-financial-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Clal Insurance",
+      "aliases": [
+        "Clal Insurance Enterprises Holdings Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/clal-insurance",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "CNH Industrial",
+      "aliases": [
+        "CNH Industrial NV"
+      ],
+      "country": "GB",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/cnh-industrial",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Coca-Cola",
+      "aliases": [
+        "Coca-Cola Co"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/coca-cola",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Colt CZ Group",
+      "aliases": [
+        "Colt CZ Group SE"
+      ],
+      "country": "CZ",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/colt-cz-group",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/colt-cz-group",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/colt-cz-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "CoreCivic",
+      "aliases": [
+        "CoreCivic Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/corecivic",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/corecivic",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Costco Wholesale",
+      "aliases": [
+        "Costco Wholesale Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/costco-wholesale",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Danya Cebus",
+      "aliases": [
+        "Danya Cebus Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/lapidoth-capital",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Delek Group",
+      "aliases": [
+        "Delek Group Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/delek-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Dell Technologies",
+      "aliases": [
+        "Dell Technologies Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/dell-technologies",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Delta Galil Industries",
+      "aliases": [
+        "Delta Galil Industries Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/delta-galil-industries",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Delta Israel Brands",
+      "aliases": [
+        "Delta Israel Brands Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/delta-galil-industries",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Doosan",
+      "aliases": [
+        "Doosan Corp"
+      ],
+      "country": "KR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/doosan",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Doosan Bobcat",
+      "aliases": [
+        "Doosan Bobcat Inc"
+      ],
+      "country": "KR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/doosan-bobcat",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Doosan Enerbility",
+      "aliases": [
+        "Doosan Enerbility Co Ltd"
+      ],
+      "country": "KR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/doosan-enerbility",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Dor Alon Energy",
+      "aliases": [
+        "Dor Alon Energy In Israel"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/dor-alon-energy",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "DUKE Robotics",
+      "aliases": [
+        "DUKE Robotics Corp"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/duke-robotics",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Edreams Odigeo",
+      "aliases": [
+        "Edreams Odigeo SA"
+      ],
+      "country": "ES",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/edreams-odigeo",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Elbit Systems",
+      "aliases": [
+        "Elbit Systems Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/elbit-systems",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/elbit-systems",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Elco",
+      "aliases": [
+        "Elco Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/elco",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Electra",
+      "aliases": [
+        "Electra Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/electra",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Elevance Health",
+      "aliases": [
+        "Elevance Health Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/anthem",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Energix-Renewable",
+      "aliases": [
+        "Energix-Renewable Energies Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/energix",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Enlight Renewable Energy",
+      "aliases": [
+        "Enlight Renewable Energy Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/enlight-renewable-energy",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Equifax",
+      "aliases": [
+        "Equifax Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/equifax",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Expedia Group",
+      "aliases": [
+        "Expedia Group Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/expedia-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Export Investment",
+      "aliases": [
+        "Export Investment Corp Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/bank-jerusalem",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Exxon Mobil",
+      "aliases": [
+        "Exxon Mobil Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/exxon-mobil",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "F I B I Holding",
+      "aliases": [
+        "F I B I Holding Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/first-intl-bank-israel",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Fairfax Finl Hldgs",
+      "aliases": [
+        "Fairfax Financial Holdings Ltd"
+      ],
+      "country": "CA",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/fairfax-financial-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "First Horizon",
+      "aliases": [
+        "First Horizon Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/first-horizon",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/first-horizon",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "First Intl Bank of Israel",
+      "aliases": [
+        "First International Bank of Israel Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/first-intl-bank-israel",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "First Solar",
+      "aliases": [
+        "First Solar Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/first-solar",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Foot Locker",
+      "aliases": [
+        "Foot Locker Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/foot-locker",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Ford Motor",
+      "aliases": [
+        "Ford Motor Co"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/ford-motor",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/ford-motor",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/ford-motor",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Formula Sys (1985)",
+      "aliases": [
+        "Formula Systems (1985) Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/formula-systems-1985",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Fosun International",
+      "aliases": [
+        "Fosun International Ltd"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/fosun-international",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Fox-Wizel",
+      "aliases": [
+        "Fox-Wizel Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/fox-wizel",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "G1 Secure Solutions",
+      "aliases": [
+        "G1 Secure Solutions Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/g1-secure-solutions",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "GE Aero",
+      "aliases": [
+        "GE Aerospace"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/general-electric",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Genasys",
+      "aliases": [
+        "Genasys Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/genasys",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "General Dynamics",
+      "aliases": [
+        "General Dynamics Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/general-dynamics",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/general-dynamics",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "General Motors",
+      "aliases": [
+        "General Motors Co"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/general-motors",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/general-motors",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/general-motors",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "GEO Group",
+      "aliases": [
+        "The GEO Group Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/geo-group",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/geo-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Granite Construction",
+      "aliases": [
+        "Granite Construction Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/granite-construction",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Hamat Group",
+      "aliases": [
+        "Hamat Group Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/hamat-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Hangzhou Hik-Vision",
+      "aliases": [
+        "Hangzhou Hik-Vision Digital Technology Co Ltd"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/hangzhou-hik-vision",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Harel Insurance Inv",
+      "aliases": [
+        "Harel Insurance Investments & Financial Services Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/harel-insurance-inv",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "HD Hyundai",
+      "country": "KR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/hd-hyundai",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "HD Hyundai Heavy",
+      "aliases": [
+        "HD Hyundai Heavy Industries"
+      ],
+      "country": "KR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/hyundai-heavy-industries",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "HD Korea Shipbuilding",
+      "aliases": [
+        "HD Korea Shipbuilding & Offshore Engineering"
+      ],
+      "country": "KR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/korea-shipbuilding",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Heidelberg Materials",
+      "aliases": [
+        "Heidelberg Materials AG"
+      ],
+      "country": "DE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/heidelbergcement",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Hewlett Packard",
+      "aliases": [
+        "Hewlett Packard Enterprise Co"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/hewlett-packard",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Hilan",
+      "aliases": [
+        "Hilan Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/hilan-0",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Hitachi",
+      "aliases": [
+        "Hitachi Ltd"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/hitachi",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Hitachi Construction",
+      "aliases": [
+        "Hitachi Construction Machinery Co Ltd"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/hitachi",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Honda Motor Co",
+      "aliases": [
+        "Honda Motor Co Ltd"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/honda-motor-co",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Honeywell Intl",
+      "aliases": [
+        "Honeywell International Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/honeywell-intl",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "HSBC Holdings",
+      "aliases": [
+        "HSBC Holdings PLC"
+      ],
+      "country": "GB",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/hsbc-holdings",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/hsbc-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Hyundai Doosan Infracore",
+      "aliases": [
+        "Hyundai Doosan Infracore Co Ltd"
+      ],
+      "country": "KR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/doosan",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "IBM",
+      "aliases": [
+        "International Business Machines Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/ibm",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "ICL Group",
+      "aliases": [
+        "ICL Group Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/icl-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Internet Gold-Golden",
+      "aliases": [
+        "Internet Gold-Golden Lines Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/bezeq-israeli-telecom",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Israel Discount Bank",
+      "aliases": [
+        "Israel Discount Bank Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/israel-discount-bank",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "JA Solar Technology Co",
+      "aliases": [
+        "JA Solar Technology Co Ltd"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/ja-solar-technology",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Jain Irrigation Systems",
+      "aliases": [
+        "Jain Irrigation Systems Ltd"
+      ],
+      "country": "IN",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/jain-irrigation-systems",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Kardan",
+      "aliases": [
+        "Kardan NV"
+      ],
+      "country": "NL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/kardan",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "KBR",
+      "aliases": [
+        "KBR Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/kbr",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Kongsberg Gruppen",
+      "aliases": [
+        "Kongsberg Gruppen ASA"
+      ],
+      "country": "NO",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/kongsberg-gruppen",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Kroger",
+      "aliases": [
+        "The Kroger Co"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/kroger",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "L3Harris Technologies",
+      "aliases": [
+        "L3Harris Technologies Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/l3harris-technologies",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/l3harris-technologies",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Lapidoth Capital",
+      "aliases": [
+        "Lapidoth Capital Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/lapidoth-capital",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Leidos Holdings",
+      "aliases": [
+        "Leidos Holdings Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/leidos-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Leonardo",
+      "aliases": [
+        "Leonardo SpA"
+      ],
+      "country": "IT",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/leonardo",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Leonardo DRS",
+      "aliases": [
+        "Leonardo DRS Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/leonardo",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Lesico",
+      "aliases": [
+        "Lesico Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/lesico",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Liberty TripAdvisor Hldgs",
+      "aliases": [
+        "Liberty TripAdvisor Holdings Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/tripadvisor",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Lockheed Martin",
+      "aliases": [
+        "Lockheed Martin Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/lockheed-martin",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/lockheed-martin",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Malam-Team",
+      "aliases": [
+        "Malam-Team Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/malam-team",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Manitou BF",
+      "aliases": [
+        "Manitou BF SA"
+      ],
+      "country": "FR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/manitou-bf",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Matrix IT",
+      "aliases": [
+        "Matrix IT Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/formula-systems-1985",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "McDonald's",
+      "aliases": [
+        "McDonald's Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/mcdonalds",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Mega Or Holdings",
+      "aliases": [
+        "Mega Or Holdings Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/mega-or-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Mehadrin",
+      "aliases": [
+        "Mehadrin Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/mehadrin",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Menora Mivtachim Holdings",
+      "aliases": [
+        "Menora Mivtachim Holdings Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/menorah-mivtachim-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Mercedes-Benz Group",
+      "aliases": [
+        "Mercedes-Benz Group AG"
+      ],
+      "country": "DE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/mercedes-benz-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Meta Platforms",
+      "aliases": [
+        "Meta Platforms Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/facebook",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Micro Systemation",
+      "aliases": [
+        "Micro Systemation AB"
+      ],
+      "country": "SE",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/msab",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/msab",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "aliases": [
+        "Microsoft Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/microsoft",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/microsoft",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/microsoft",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Migdal Insurance & Finl",
+      "aliases": [
+        "Migdal Insurance & Financial Holdings Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/migdal-insurance-finl",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Minerals Technologies",
+      "aliases": [
+        "Minerals Technologies Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/minerals-technologies",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "MITIE Gr",
+      "aliases": [
+        "MITIE Group PLC"
+      ],
+      "country": "GB",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/mitie-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Mitsubishi",
+      "aliases": [
+        "Mitsubishi Corp"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/mitsubishi",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Mitsubishi Motors",
+      "aliases": [
+        "Mitsubishi Motors Corp"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/mitsubishi",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Mivne Real Estate (K.D)",
+      "aliases": [
+        "Mivne Real Estate (K.D) Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/mivne-real-estate-kd",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Mizrahi Tefahot Bank",
+      "aliases": [
+        "Mizrahi Tefahot Bank Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/mizrahi-tefahot-bank",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "ModivCare",
+      "aliases": [
+        "ModivCare Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/providence-service",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Mordechai Aviv Taasiot",
+      "aliases": [
+        "Mordechai Aviv Taasiot Beniyah (1973) Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/mordechai-aviv-taasiot",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Motorola Solns",
+      "aliases": [
+        "Motorola Solutions Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/motorola-solutions",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/motorola-solutions",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/motorola-solutions",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Natuzzi",
+      "aliases": [
+        "Natuzzi SPA"
+      ],
+      "country": "IT",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/natuzzi",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "NEC",
+      "aliases": [
+        "NEC Corp"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/nec",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Nextcom",
+      "aliases": [
+        "Nextcom Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/nextcom",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "NICE",
+      "aliases": [
+        "NICE Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/nice",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Northrop Grumman",
+      "aliases": [
+        "Northrop Grumman Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/northrop-grumman",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/northrop-grumman",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "aliases": [
+        "NVIDIA Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/nvidia",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "One Software Technologies",
+      "aliases": [
+        "One Software Technologies Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/one-software-technologies",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Orad",
+      "aliases": [
+        "Orad Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/orad",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Orbia Advance Corp SAB",
+      "aliases": [
+        "Orbia Advance Corp SAB de CV"
+      ],
+      "country": "MX",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/orbia",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Oron Group Invs & Hldgs",
+      "aliases": [
+        "Oron Group Investments & Holdings Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/oron-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Oshkosh",
+      "aliases": [
+        "Oshkosh Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/oshkosh",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "OSI Systems",
+      "aliases": [
+        "OSI Systems Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/osi-systems",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/osi-systems",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Palantir Technologies",
+      "aliases": [
+        "Palantir Technologies Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/palantir",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/palantir",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Partner Communications Co",
+      "aliases": [
+        "Partner Communications Co Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/partner-communications",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "PayPal Holdings",
+      "aliases": [
+        "PayPal Holdings Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/paypal",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Paz Retail And Energy",
+      "aliases": [
+        "Paz Retail And Energy Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/paz-oil-co",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Perrigo",
+      "aliases": [
+        "Perrigo Co PLC"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/perrigo-co",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix Holdings",
+      "aliases": [
+        "Phoenix Holdings Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/phoenix-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Pinnacle Finl Partners",
+      "aliases": [
+        "Pinnacle Financial Partners Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/pinnacle-finl-partners",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/pinnacle-finl-partners",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Polaris",
+      "aliases": [
+        "Polaris Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/polaris",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/polaris",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Primo Water",
+      "aliases": [
+        "Primo Water Corp"
+      ],
+      "country": "CA",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/primo-water",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Rami Levi Chain Stores",
+      "aliases": [
+        "Rami Levi Chain Stores Hashikma Marketing 2006 Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/rami-levi-chain-stores",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "RE/MAX Hldgs",
+      "aliases": [
+        "RE/MAX Holdings Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/remax-holdings",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Regions Finl",
+      "aliases": [
+        "Regions Financial Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/regions-financial",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/regions-financial",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "RELX",
+      "aliases": [
+        "RELX PLC"
+      ],
+      "country": "GB",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/relx",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/relx",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "RENK Group",
+      "aliases": [
+        "RENK Group AG"
+      ],
+      "country": "DE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/renk",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Restaurant Brands Intl",
+      "aliases": [
+        "Restaurant Brands International Inc"
+      ],
+      "country": "CA",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/rbi",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "RLI",
+      "aliases": [
+        "RLI Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/rli-corp",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/rli-corp",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Roche Bobois",
+      "aliases": [
+        "Roche Bobois SA"
+      ],
+      "country": "FR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/roche-bobois",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Rolls-Royce Hldgs",
+      "aliases": [
+        "Rolls-Royce Holdings PLC"
+      ],
+      "country": "GB",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/rolls-royce-hldgs",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Roots Sustainable",
+      "aliases": [
+        "Roots Sustainable Agricultural Technologies Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/roots-sustainable",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Rotshtein Realestate",
+      "aliases": [
+        "Rotshtein Realestate Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/rotshtein-realestate",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "RTX",
+      "aliases": [
+        "RTX Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/rtx",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/rtx",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Salesforce",
+      "aliases": [
+        "Salesforce Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/salesforce",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Salomon A. Angel",
+      "aliases": [
+        "Salomon A. Angel Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/salomon-angel",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Science Applications Intl",
+      "aliases": [
+        "Science Applications International Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/saic",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Serco Group",
+      "aliases": [
+        "Serco Group PLC"
+      ],
+      "country": "GB",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/serco-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Shapir Eng & Industry",
+      "aliases": [
+        "Shapir Engineering and Industry Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/shapir-eng-industry",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Shikun & Binui",
+      "aliases": [
+        "Shikun & Binui Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/shikun-binui",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Shufersal",
+      "aliases": [
+        "Shufersal Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/shufersal",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Shunfeng Intl Clean",
+      "aliases": [
+        "Shunfeng International Clean Energy Ltd"
+      ],
+      "country": "CN",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/shunfeng-intl-clean",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Siemens",
+      "aliases": [
+        "Siemens AG"
+      ],
+      "country": "DE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/siemens",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "SMA Solar Tech",
+      "aliases": [
+        "SMA Solar Technology AG"
+      ],
+      "country": "DE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/sma-solar-technology",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Smiths Group",
+      "aliases": [
+        "Smiths Group PLC"
+      ],
+      "country": "GB",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/smiths-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Sodexo",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/sodexo",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "SolarEdge Technologies",
+      "aliases": [
+        "SolarEdge Technologies Inc"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/solaredge-technologies",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Solvay",
+      "aliases": [
+        "Solvay SA"
+      ],
+      "country": "BE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/solvay",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Sony Group",
+      "aliases": [
+        "Sony Group Corp"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/sony",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Sturm Ruger & Co",
+      "aliases": [
+        "Sturm Ruger & Co Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/sturm-ruger-co",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/sturm-ruger-co",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Sun",
+      "aliases": [
+        "Sun Corp"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/cellebrite",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/cellebrite",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "SuperCom",
+      "aliases": [
+        "SuperCom Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/supercom",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Synovus Finl",
+      "aliases": [
+        "Synovus Financial Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/synovus-finl",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/synovus-finl",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "aliases": [
+        "Target Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/target",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Target Hospitality",
+      "aliases": [
+        "Target Hospitality Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/target-hospitality",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/target-hospitality",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Taro Pharmaceutical Indus",
+      "aliases": [
+        "Taro Pharmaceutical Industries Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/taro-pharmaceutical-indus",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Tata Motors",
+      "aliases": [
+        "Tata Motors Ltd"
+      ],
+      "country": "IN",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/tata-motors",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Teledyne Technologies",
+      "aliases": [
+        "Teledyne Technologies Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/teledyne-technologies",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Tempur Sealy Intl",
+      "aliases": [
+        "Tempur Sealy International Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/tempur-sealy-international",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Tera Light",
+      "aliases": [
+        "Tera Light Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/tera-light",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Terex",
+      "aliases": [
+        "Terex Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/terex",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Teva Pharmaceutical Indus",
+      "aliases": [
+        "Teva Pharmaceutical Industries Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/teva-pharmaceutical-indus",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Textron",
+      "aliases": [
+        "Textron Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/textron",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/textron",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Thales",
+      "country": "FR",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/gemalto",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Themis GREN",
+      "aliases": [
+        "Themis GREN Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/b-yair-building-1988",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Thermo Fisher Scientific",
+      "aliases": [
+        "Thermo Fisher Scientific Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/thermo-fisher-scientific",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Thomson Reuters",
+      "aliases": [
+        "Thomson Reuters Corp"
+      ],
+      "country": "CA",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/thomson-reuters",
+          "listed_date": "2025-07"
+        },
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/thomson-reuters",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "thyssenkrupp",
+      "aliases": [
+        "thyssenkrupp AG"
+      ],
+      "country": "DE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/thyssenkrupp",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Tigbur- Temporary",
+      "aliases": [
+        "Tigbur- Temporary Professional Personnel Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/tigbur-temporary-profess",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "TKH Group",
+      "aliases": [
+        "TKH Group NV"
+      ],
+      "country": "NL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/tkh",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Toyota Motor",
+      "aliases": [
+        "Toyota Motor Corp"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/toyota-motor",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Track Group",
+      "aliases": [
+        "Track Group Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/track-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "TransUnion",
+      "country": "US",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/transunion",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Traton",
+      "aliases": [
+        "Traton SE"
+      ],
+      "country": "DE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/traton",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "TripAdvisor",
+      "aliases": [
+        "TripAdvisor Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/tripadvisor",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Tyson Foods",
+      "aliases": [
+        "Tyson Foods Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/tyson-foods",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Valero Energy",
+      "aliases": [
+        "Valero Energy Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/valero-energy",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Villar International",
+      "aliases": [
+        "Villar International Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/villar-international",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Vinci",
+      "aliases": [
+        "Vinci SA"
+      ],
+      "country": "FR",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/vinci",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Virco Mfg",
+      "aliases": [
+        "Virco Manufacturing Corp"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/virco-manufacturing",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Volkswagen",
+      "aliases": [
+        "Volkswagen AG"
+      ],
+      "country": "DE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/volkswagen",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Volvo",
+      "aliases": [
+        "Volvo AB"
+      ],
+      "country": "SE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/volvo",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "aliases": [
+        "Walmart Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/walmart",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Wendy's",
+      "aliases": [
+        "The Wendy's Co"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/wendys",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Western Union",
+      "aliases": [
+        "The Western Union Co"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/geo-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Woodward",
+      "aliases": [
+        "Woodward Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/woodward",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "WSP Global",
+      "aliases": [
+        "WSP Global Inc"
+      ],
+      "country": "CA",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/wsp-global",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Wyndham Hotels & Resorts",
+      "aliases": [
+        "Wyndham Hotels & Resorts Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/wyndham-hotels-resorts",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Ya'Acobi Brothers Group",
+      "aliases": [
+        "Ya'Acobi Brothers Group(YSB) Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/yaacobi-brothers-group",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Yamaha Motor",
+      "aliases": [
+        "Yamaha Motor Co Ltd"
+      ],
+      "country": "JP",
+      "flags": [
+        {
+          "category": "other",
+          "detail": "Listed by AFSC Investigate under: Borders",
+          "evidence_url": "https://investigate.info/company/yamaha-motor",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Yum Brands",
+      "aliases": [
+        "Yum Brands Inc"
+      ],
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "Listed by AFSC Investigate under: Prisons",
+          "evidence_url": "https://investigate.info/company/yum-brands",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Z M H Hammerman",
+      "aliases": [
+        "Z M H Hammerman Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/z-m-h-hammerman",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "ZIM Integrated Shipping",
+      "aliases": [
+        "ZIM Integrated Shipping Services Ltd"
+      ],
+      "country": "IL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed by AFSC Investigate under: Occupations",
+          "evidence_url": "https://investigate.info/company/zim",
+          "listed_date": "2025-07"
+        }
+      ]
+    }
+  ]
+}
