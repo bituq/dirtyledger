@@ -86,22 +86,39 @@ function getWorker(): Promise<WorkerHttpvfs> {
       `${import.meta.env.BASE_URL}data/db-meta.json`,
       window.location.origin
     ).toString();
-    // GitHub Pages' CDN does not expose a usable Content-Length on HEAD, so the
-    // deploy writes the byte size to db-meta.json next to the database.
+    const chunkPrefix = new URL(
+      `${import.meta.env.BASE_URL}data/db/`,
+      window.location.origin
+    ).toString();
+    // GitHub Pages' CDN gzips HEAD responses, which makes the library discard
+    // Content-Length. Only chunked serverMode accepts an explicit length, so the
+    // deploy publishes the database as a single chunk file `data/db/0` plus a
+    // db-meta.json carrying its byte size and a cache-busting build id.
     workerPromise = fetch(metaUrl)
-      .then((r) => (r.ok ? r.json() : {}))
-      .catch(() => ({}))
-      .then((meta: { size?: number }) =>
+      .then((r) => (r.ok ? r.json() : null))
+      .catch(() => null)
+      .then((meta: { size: number; buildId?: string } | null) =>
         createDbWorker(
           [
             {
               from: "inline",
-              config: {
-                serverMode: "full",
-                url: dbUrl,
-                requestChunkSize: REQUEST_CHUNK_SIZE,
-                ...(meta.size ? { fileLength: meta.size } : {}),
-              },
+              config: meta?.size
+                ? {
+                    serverMode: "chunked",
+                    urlPrefix: chunkPrefix,
+                    serverChunkSize: meta.size,
+                    databaseLengthBytes: meta.size,
+                    suffixLength: 1,
+                    requestChunkSize: REQUEST_CHUNK_SIZE,
+                    ...(meta.buildId ? { cacheBust: meta.buildId } : {}),
+                  }
+                : {
+                    // Dev fallback when no meta file exists: plain servers
+                    // return a usable HEAD Content-Length.
+                    serverMode: "full",
+                    url: dbUrl,
+                    requestChunkSize: REQUEST_CHUNK_SIZE,
+                  },
             },
           ],
           workerUrl,
