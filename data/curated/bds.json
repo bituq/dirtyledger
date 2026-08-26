@@ -1,0 +1,1822 @@
+{
+  "source": {
+    "key": "bds",
+    "name": "BDS Movement targeted boycott list",
+    "url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+    "license": "campaign list, publicly published",
+    "fetched_at": "2026-08-26",
+    "dataset_date": "2024-12",
+    "note": "Activist campaign list rather than a research database: these are the BDS movement's own current priority targets as published on bdsmovement.net (Guide to BDS Boycott & Pressure Corporate Priority Targeting, published 6 Dec 2024 and current as fetched, plus the Get Involved - Divestment page). Tiers covered: consumer boycott priority targets, grassroots organic boycott targets (campaigns BDS supports but did not initiate), pressure targets, top-priority Israeli divestment/exclusion targets, and the non-exhaustive non-Israeli institutional pressure priority list (military, tech, energy, financial, shipping, others). The consumer-tier item 'Israeli produce' is a product category, not a company, and is omitted. BDS also calls for boycotting all Israeli companies generically; only companies it names individually are included."
+  },
+  "companies": [
+    {
+      "name": "Chevron",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: main corporation extracting gas claimed by Israel in the East Mediterranean, generating billions in revenues that strengthen Israel's war chest and apartheid system",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Caltex",
+        "Texaco"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Intel",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: largest international investor in Israel for decades; its Kiryat Gat plant is built on land of the ethnically cleansed Palestinian village of Iraq al Manshiya",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Dell",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: supplies servers, services and related equipment to the Israeli military under a $150 million 2023 contract, and runs R&D activity supporting settlement expansion in the Naqab",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Dell Technologies"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Siemens",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: main contractor for the Euro-Asia Interconnector, an Israel-EU submarine electricity cable planned to connect Israel's illegal settlements to Europe",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "DE"
+    },
+    {
+      "name": "Hewlett Packard (HP)",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: provides critical technological and logistical support to the Israeli government, military, prisons and police that facilitates war crimes; HPE supports Israel's Population and Immigration Authority",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "HP",
+        "Hewlett Packard Enterprise",
+        "HPE",
+        "HP Inc."
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Microsoft",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: provides the Israeli military with Azure cloud and AI services; described by the BDS movement as perhaps the most complicit tech company in Israel's apartheid regime and genocide",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Carrefour",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: franchise partnership with Electra Consumer Products and its retail subsidiary Yenot Bitan, both active in the illegal Israeli settlement enterprise; Carrefour-Israel supported Israeli soldiers during the Gaza war",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "FR"
+    },
+    {
+      "name": "AXA",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: holds $150.43 million in eleven companies arming Israel during its war on Gaza, including Boeing and General Dynamics",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "FR"
+    },
+    {
+      "name": "Reebok",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: signed a 2025 sponsorship contract with the Israel Football Association, whose official leagues include teams based in illegal Israeli settlements",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Disney+",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: Disney and its subsidiary Marvel are accused of glorifying Israel's regime of genocide and apartheid through casting choices and content",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        }
+      ],
+      "aliases": [
+        "Disney",
+        "Marvel"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Teva Pharmaceutical Industries",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: Israeli pharmaceutical company that has supported Israel's war since October 2023 and benefited for decades from the captive Palestinian market under occupation",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (generic pharmaceuticals sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Teva"
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "SodaStream",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: Israeli company actively complicit in Israel's policy of displacing Bedouin-Palestinian citizens in the Naqab (Negev), with a history of discrimination against Palestinian workers",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (other priority sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "RE/MAX",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official consumer boycott priority target: markets and sells property in illegal Israeli settlements built on stolen Palestinian land",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "McDonald's",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official grassroots organic boycott target: boycott campaign not initiated by the BDS movement but actively supported by it, because the company or its Israeli branches/franchisees have openly supported Israel and/or provided in-kind donations to the Israeli military during the Gaza war",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Coca Cola",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official grassroots organic boycott target: boycott campaign not initiated by the BDS movement but actively supported by it, because the company or its Israeli branches/franchisees have openly supported Israel and/or provided in-kind donations to the Israeli military during the Gaza war",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Burger King",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official grassroots organic boycott target: boycott campaign not initiated by the BDS movement but actively supported by it, because the company or its Israeli branches/franchisees have openly supported Israel and/or provided in-kind donations to the Israeli military during the Gaza war",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Papa John's",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official grassroots organic boycott target: boycott campaign not initiated by the BDS movement but actively supported by it, because the company or its Israeli branches/franchisees have openly supported Israel and/or provided in-kind donations to the Israeli military during the Gaza war",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Pizza Hut",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official grassroots organic boycott target: boycott campaign not initiated by the BDS movement but actively supported by it, because the company or its Israeli branches/franchisees have openly supported Israel and/or provided in-kind donations to the Israeli military during the Gaza war",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Domino's Pizza",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official grassroots organic boycott target: boycott campaign not initiated by the BDS movement but actively supported by it, because the company or its Israeli branches/franchisees have openly supported Israel and/or provided in-kind donations to the Israeli military during the Gaza war",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "WIX",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official grassroots organic boycott target: boycott campaign not initiated by the BDS movement but actively supported by it, because the company or its Israeli branches/franchisees have openly supported Israel and/or provided in-kind donations to the Israeli military during the Gaza war",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (technology and telecoms sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Google",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official pressure target: through Project Nimbus, the joint $1.22 billion contract signed in 2021, provides cloud computing infrastructure, AI and other technology services to the Israeli government and military",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Google/Alphabet",
+        "Alphabet"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Amazon",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official pressure target: through Project Nimbus, the joint $1.22 billion contract signed in 2021, provides cloud computing infrastructure, AI and other technology services to the Israeli government and military",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Amazon.com"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Booking Holdings",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official pressure target: offers rentals in illegal Israeli settlements built on stolen Palestinian land; listed in the UN database of businesses implicated in the settlement enterprise",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Booking",
+        "Booking.com"
+      ]
+    },
+    {
+      "name": "Airbnb",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official pressure target: offers rentals in illegal Israeli settlements built on stolen Palestinian land; listed in the UN database of businesses implicated in the settlement enterprise",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Expedia",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement official pressure target: offers rentals in illegal Israeli settlements built on stolen Palestinian land; listed in the UN database of businesses implicated in the settlement enterprise",
+          "evidence_url": "https://bdsmovement.net/Guide-to-BDS-Boycott",
+          "listed_date": "2024-12"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Expedia Group"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Elbit Systems",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (military-security sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "IAI",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (military-security sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Israel Aerospace Industries"
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "NSO Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (military-security sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Bezeq Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (technology and telecoms sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Bezeq"
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "WIZ",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (technology and telecoms sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ]
+    },
+    {
+      "name": "Delek Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (energy sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Delek"
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Paz",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (energy sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Bank Hapoalim",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (financial sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Bank Leumi",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (financial sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Israel Discount Bank",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (financial sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Mekorot",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (agriculture and water sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Netafim",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (agriculture and water sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Adama",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (agriculture and water sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ]
+    },
+    {
+      "name": "ZIM",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (logistics and shipping sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "ZIM Integrated Shipping"
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Egged",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (logistics and shipping sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Ahava",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (other priority sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Israel Chemicals",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (other priority sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "Electra Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement top-priority Israeli target for divestment and exclusion from contracts (other priority sector); BDS calls for divesting from all Israeli companies that fail its two non-complicity conditions",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IL"
+    },
+    {
+      "name": "BAE Systems",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "GB"
+    },
+    {
+      "name": "Boeing",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Caterpillar",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Fanuc",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "JP"
+    },
+    {
+      "name": "Ford",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Ford Motor"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "General Dynamics",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "HikVision",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Hikvision"
+      ],
+      "country": "CN"
+    },
+    {
+      "name": "Honeywell",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Honeywell International"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "L3 Harris",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "L3Harris Technologies"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Leonardo",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IT"
+    },
+    {
+      "name": "Lockheed Martin",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Nammo",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "NO"
+    },
+    {
+      "name": "Northrop Grumman",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Oshkosh",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "RENK Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "DE"
+    },
+    {
+      "name": "Rheinmetall",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "DE"
+    },
+    {
+      "name": "Rolls-Royce Holdings",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Rolls-Royce"
+      ],
+      "country": "GB"
+    },
+    {
+      "name": "RTX",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Raytheon"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Sturm Ruger",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Textron",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "ThyssenKrupp",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "DE"
+    },
+    {
+      "name": "TKH Security",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "NL"
+    },
+    {
+      "name": "Toyota",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: military-security company, listed among companies implicated in arming Israel, including in its war on Gaza",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Toyota Motor"
+      ],
+      "country": "JP"
+    },
+    {
+      "name": "Cisco Systems",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "IBM",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Meta",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Meta Platforms"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Motorola Solutions",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Oracle",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Palantir",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: tech company whose products are deployed as weapons of war or dual-use items in Israel's grave human rights violations",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Palantir Technologies"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "BP",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "GB"
+    },
+    {
+      "name": "Dana Energy",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ]
+    },
+    {
+      "name": "Energean",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "GB"
+    },
+    {
+      "name": "Eni",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IT"
+    },
+    {
+      "name": "ExxonMobil",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Exxon Mobil"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Genie Energy",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Glencore",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "CH"
+    },
+    {
+      "name": "Shell",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "GB"
+    },
+    {
+      "name": "Socar",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "AZ"
+    },
+    {
+      "name": "TotalEnergies",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "FR"
+    },
+    {
+      "name": "Valero",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: energy company targeted under the BDS movement's Energy Embargo Now campaign",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Valero Energy"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Alfried Krupp von Bohlen und Halbach-Stiftung",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "DE"
+    },
+    {
+      "name": "Allianz SE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Allianz"
+      ],
+      "country": "DE"
+    },
+    {
+      "name": "Amundi Asset Management",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Amundi"
+      ],
+      "country": "FR"
+    },
+    {
+      "name": "Bank of America",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Banco Bilbao Vizcaya Argentaria (BBVA)",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "BBVA"
+      ],
+      "country": "ES"
+    },
+    {
+      "name": "Banco Santander",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        },
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Santander"
+      ],
+      "country": "ES"
+    },
+    {
+      "name": "BlackRock",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "CaixaBank",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "ES"
+    },
+    {
+      "name": "Capital Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Causeway Capital Management",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Citigroup",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Fidelity Management & Research",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Fidelity Investments"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "INVESCO Ltd",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Invesco"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "JP Morgan Chase",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "JPMorgan Chase"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Harris Associates",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Morgan Stanley",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Norges Bank Investment Management",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "NO"
+    },
+    {
+      "name": "Newport Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Raven's Wing Asset Management",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ]
+    },
+    {
+      "name": "State Farm Mutual Automobile Insurance",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "State Farm"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "State Street Corporation",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "State Street"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Union Investment Privatfonds",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Union Investment"
+      ],
+      "country": "DE"
+    },
+    {
+      "name": "The Vanguard Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Vanguard"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Wellington",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Wellington Management"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Wells Fargo & Company",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution financing military companies that are arming Israel",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Wells Fargo"
+      ],
+      "country": "US"
+    },
+    {
+      "name": "Barclays",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "GB"
+    },
+    {
+      "name": "BNP Paribas",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "FR"
+    },
+    {
+      "name": "Credit Agricole",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Crédit Agricole"
+      ],
+      "country": "FR"
+    },
+    {
+      "name": "Deutsche Bank",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "DE"
+    },
+    {
+      "name": "Groupe BPCE",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "FR"
+    },
+    {
+      "name": "HSBC",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "HSBC Holdings"
+      ],
+      "country": "GB"
+    },
+    {
+      "name": "ING Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "ING"
+      ],
+      "country": "NL"
+    },
+    {
+      "name": "Nordea",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "FI"
+    },
+    {
+      "name": "Schroeders",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Schroders"
+      ],
+      "country": "GB"
+    },
+    {
+      "name": "Societe Generale",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Société Générale"
+      ],
+      "country": "FR"
+    },
+    {
+      "name": "Standard Chartered",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "GB"
+    },
+    {
+      "name": "Swedbank",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "SE"
+    },
+    {
+      "name": "UniCredit",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: financial institution funding the occupation",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "IT"
+    },
+    {
+      "name": "Maersk",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: shipping company listed in the BDS institutional pressure priority list",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "A. P. Moller Maersk"
+      ],
+      "country": "DK"
+    },
+    {
+      "name": "MSC",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: shipping company listed in the BDS institutional pressure priority list",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Mediterranean Shipping Company"
+      ],
+      "country": "CH"
+    },
+    {
+      "name": "Alstom",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "FR"
+    },
+    {
+      "name": "Altice International",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "LU"
+    },
+    {
+      "name": "Bright Dairy & Food Co",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "CN"
+    },
+    {
+      "name": "CAF",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "ES"
+    },
+    {
+      "name": "Carlsberg",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "DK"
+    },
+    {
+      "name": "Cemex",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "eDreams",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "ES"
+    },
+    {
+      "name": "HD Hyundai",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "KR"
+    },
+    {
+      "name": "Heidelberg Materials",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "DE"
+    },
+    {
+      "name": "JCB",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "J.C. Bamford Excavators"
+      ],
+      "country": "GB"
+    },
+    {
+      "name": "MAN Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ]
+    },
+    {
+      "name": "Orbia",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Orbia Advance Corp SAB"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "TripAdvisor",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "name": "TUI Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "TUI"
+      ],
+      "country": "DE"
+    },
+    {
+      "name": "Volvo Group",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "aliases": [
+        "Volvo"
+      ],
+      "country": "SE"
+    },
+    {
+      "name": "WSP Global",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "BDS movement divestment/institutional-pressure priority target: listed under 'Others' in the BDS institutional pressure priority list, drawn from the Don't Buy Into Occupation, AFSC, WhoProfits and UN database research",
+          "evidence_url": "https://bdsmovement.net/Get-involved-divestment"
+        }
+      ],
+      "country": "CA"
+    }
+  ]
+}
