@@ -37,7 +37,10 @@ jobs:
         env:
           PAGES_BASE: /${{ github.event.repository.name }}/
       - name: Copy database into site
-        run: mkdir -p packages/web/dist/data && cp dist-data/dirtyledger.db* packages/web/dist/data/
+        run: |
+          mkdir -p packages/web/dist/data
+          cp dist-data/dirtyledger.db* packages/web/dist/data/
+          node -e 'const fs=require("fs");const s=fs.statSync("packages/web/dist/data/dirtyledger.db").size;fs.writeFileSync("packages/web/dist/data/db-meta.json",JSON.stringify({size:s}))'
       - name: SPA fallback for Pages
         run: cp packages/web/dist/index.html packages/web/dist/404.html
       - uses: actions/upload-pages-artifact@v3

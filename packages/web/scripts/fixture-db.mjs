@@ -5,7 +5,7 @@
 // same schema (packages/ingest/schema.sql) with a handful of representative
 // companies so `pnpm dev` works without running the full ingest.
 
-import { mkdirSync, readFileSync, rmSync } from "node:fs";
+import { mkdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import Database from "better-sqlite3";
@@ -252,6 +252,11 @@ db.transaction(() => {
 
 db.exec("VACUUM");
 db.close();
+
+writeFileSync(
+  path.join(outDir, "db-meta.json"),
+  JSON.stringify({ size: statSync(outPath).size })
+);
 
 console.log(`Fixture database written to ${outPath}`);
 console.log(

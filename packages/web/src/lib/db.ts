@@ -82,20 +82,32 @@ function getWorker(): Promise<WorkerHttpvfs> {
       `${import.meta.env.BASE_URL}data/dirtyledger.db`,
       window.location.origin
     ).toString();
-    workerPromise = createDbWorker(
-      [
-        {
-          from: "inline",
-          config: {
-            serverMode: "full",
-            url: dbUrl,
-            requestChunkSize: REQUEST_CHUNK_SIZE,
-          },
-        },
-      ],
-      workerUrl,
-      wasmUrl
-    );
+    const metaUrl = new URL(
+      `${import.meta.env.BASE_URL}data/db-meta.json`,
+      window.location.origin
+    ).toString();
+    // GitHub Pages' CDN does not expose a usable Content-Length on HEAD, so the
+    // deploy writes the byte size to db-meta.json next to the database.
+    workerPromise = fetch(metaUrl)
+      .then((r) => (r.ok ? r.json() : {}))
+      .catch(() => ({}))
+      .then((meta: { size?: number }) =>
+        createDbWorker(
+          [
+            {
+              from: "inline",
+              config: {
+                serverMode: "full",
+                url: dbUrl,
+                requestChunkSize: REQUEST_CHUNK_SIZE,
+                ...(meta.size ? { fileLength: meta.size } : {}),
+              },
+            },
+          ],
+          workerUrl,
+          wasmUrl
+        )
+      );
     workerPromise.catch(() => {
       // Allow a retry on the next call instead of caching the failure forever.
       workerPromise = null;
