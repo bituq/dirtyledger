@@ -5,3 +5,4 @@ downloads/
 *.db
 *.db-journal
 .DS_Store
+.screenshots/
