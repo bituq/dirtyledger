@@ -1,0 +1,32 @@
+{
+  "source": {
+    "key": "un_ohchr",
+    "name": "UN OHCHR settlements database (fixture)",
+    "url": "https://www.ohchr.org/en/hr-bodies/hrc/regular-sessions",
+    "license": "UN, public",
+    "fetched_at": "2026-08-26",
+    "dataset_date": "2025"
+  },
+  "companies": [
+    {
+      "name": "Aerodyne Systems Ltd",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in A/HRC/60/19 (fixture): surveillance equipment for settlements",
+          "listed_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Desert Infrastructure BV",
+      "country": "NL",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "Listed in A/HRC/60/19 (fixture): construction in occupied territory"
+        }
+      ]
+    }
+  ]
+}

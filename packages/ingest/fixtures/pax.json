@@ -1,0 +1,43 @@
+{
+  "source": {
+    "key": "pax",
+    "name": "PAX Don't Bank on the Bomb (fixture)",
+    "url": "https://www.dontbankonthebomb.com/",
+    "license": "PAX, non-commercial",
+    "fetched_at": "2026-08-26",
+    "dataset_date": "2025"
+  },
+  "companies": [
+    {
+      "name": "LM Aeronautics International",
+      "lei": "FAKELEI0000000000001",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer (fixture): ICBM components",
+          "evidence_url": "https://www.dontbankonthebomb.com/",
+          "listed_date": "2025-06"
+        }
+      ]
+    },
+    {
+      "name": "Nordwind Defense",
+      "flags": [
+        {
+          "category": "nuclear",
+          "detail": "Nuclear weapon producer (fixture): warhead assemblies"
+        }
+      ]
+    },
+    {
+      "name": "First Fictional Bank",
+      "country": "NL",
+      "flags": [
+        {
+          "category": "financier",
+          "detail": "Financier (fixture): $1.2bn in loans to nuclear weapon producers"
+        }
+      ]
+    }
+  ]
+}

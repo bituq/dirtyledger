@@ -19,6 +19,7 @@ CI: `.github/workflows/deploy.yml` runs on push to main + weekly cron + manual d
 | `pax` | PAX Don't Bank on the Bomb | `nuclear` (producers) + `financier` (investors/financiers of producers) | curated JSON `data/curated/pax.json` |
 | `un_ohchr` | UN OHCHR settlements database (A/HRC/60/19, 158 companies) | `occupation` | curated JSON `data/curated/un_ohchr.json` |
 | `afsc` | AFSC Investigate dataset | `arms` / `occupation` / `prisons` per their categorisation | curated JSON `data/curated/afsc.json` (their download is free for non-profit use) |
+| `bds` | BDS movement official targeted boycott/divestment/pressure list | `occupation` | curated JSON `data/curated/bds.json`; explicitly labeled as an activist campaign list (not a research database) in methodology |
 | `opensanctions` | OpenSanctions default dataset, filtered to organizations/companies with topics | `sanctions` | downloaded in CI (bulk FtM JSON, no key needed) |
 | `gleif` | GLEIF Level 2 relationship data (who owns whom) | ownership edges only | downloaded in CI, filtered to LEIs of flagged entities |
 

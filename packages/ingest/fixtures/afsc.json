@@ -1,0 +1,41 @@
+{
+  "source": {
+    "key": "afsc",
+    "name": "AFSC Investigate (fixture)",
+    "url": "https://investigate.info/",
+    "license": "AFSC, free for non-profit use",
+    "fetched_at": "2026-08-26",
+    "dataset_date": "2026"
+  },
+  "companies": [
+    {
+      "name": "Lockheed-Martin",
+      "flags": [
+        {
+          "category": "arms",
+          "detail": "AFSC Investigate (fixture): major weapons manufacturer",
+          "evidence_url": "https://investigate.info/company/lockheed-martin"
+        }
+      ]
+    },
+    {
+      "name": "Desert Infra Holdings",
+      "flags": [
+        {
+          "category": "occupation",
+          "detail": "AFSC Investigate (fixture): quarry operations in occupied territory"
+        }
+      ]
+    },
+    {
+      "name": "CorrectCorp Detention",
+      "country": "US",
+      "flags": [
+        {
+          "category": "prisons",
+          "detail": "AFSC Investigate (fixture): private prison operator"
+        }
+      ]
+    }
+  ]
+}
